@@ -1,6 +1,6 @@
 # dailyUi002
 
-**the application is for daily workout tracking**
+**the application is for fligth planing and best deals listing**
 
 ![alt](/ui-image/ui.png)
 
